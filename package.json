@@ -1,0 +1,25 @@
+{
+  "name": "profile01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qlpt2020/profile01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qlpt2020/profile01/issues"
+  },
+  "homepage": "https://github.com/qlpt2020/profile01#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^5.1.0"
+  }
+}
